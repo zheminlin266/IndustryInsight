@@ -2,19 +2,24 @@
 
 本文件适用于本仓库中的项目讨论、信息研究与代码实现。
 
-## 核心
+## 目的
 
 通过研究竞争同行的供给变化，和下游需求的变化，以此判断企业或产业链环节议价能力的变化趋势。
 
-首次开展行业研究时，参照[行业研究方法论](Industry_research_methodology.md)，系统梳理全产业链、各环节结构与瓶颈、竞争格局及历史演变。
+## 注意事项
 
-后续进行信息搜索、资料获取与事实核查时，读取并遵循项目内置的 [deep-search-principles](.agents/skills/deep-search-principles/SKILL.md)，执行[方法论中的信息搜索与获取规范](Industry_research_methodology.md#4-信息搜索与获取)。
+- 开展行业研究时，参照[行业研究方法论](Industry_research_methodology.md)，系统梳理全产业链、各环节结构与瓶颈、竞争格局及历史演变。
+- 研究开始前，向用户提出2个以上需要明确的研究规划问题。
 
 ## 沟通方式
 
 - 使用中文输出，保持精炼、清晰、结构明确；代码标识符、必要术语和原文引用可保留原文。
 - 优先呈现结论、当前结果或需要用户决定的事项，再补充必要依据。
 - 汇报实现工作时，说明改动、相关验证结果，以及实质性阻碍或限制；省略常规过程叙述和次要细节。
+
+## 信息搜索
+
+后续进行信息搜索、资料获取与事实核查时，读取并遵循项目内置的 [deep-search-principles](.agents/skills/deep-search-principles/SKILL.md)，执行[方法论中的信息搜索与获取规范](Industry_research_methodology.md#4-信息搜索与获取)。
 
 ## 判断与决策
 
